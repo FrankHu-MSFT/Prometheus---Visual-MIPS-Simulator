@@ -3,7 +3,7 @@
 
 # Docs
 Please see the JavaDocs in the doc folder for info on the code.
-Please see the FrankHuDirectedStudyWriteup Doc for more information on the project.
+Please see the Software Specifications Document Folder for more information on this project.
 
 # Support
 This is not a supported repository, and I have no thoughts on further pursuing this project. Although I hope that someday someone is able to flesh out the rest of this project to have an animated visual MIPS Simulator. 
